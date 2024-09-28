@@ -3,7 +3,6 @@
 ## Project Title: Exploratory Data Analysis(EDA)
 
 ### Project Overview 
-
 A collection of EDA projects where data is explored using statistics and visualizations.
 
 #### Data Source
